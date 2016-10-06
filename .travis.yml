@@ -10,6 +10,7 @@ notifications:
     recipients:
     - sindre.kroknes@gmail.com
     - magnussh@stud.ntnu.no
+    - bjornhaf@stud.ntnu.no
 
     on_success: never
     on_failure: always
